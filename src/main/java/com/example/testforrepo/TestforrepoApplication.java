@@ -6,8 +6,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TestforrepoApplication {
 
+
     public static void main(String[] args) {
-        SpringApplication.run(TestforrepoApplication.class, args);
+        System.out.println("this is zhuzhu");
+        SpringApplication.run(TestforrepoApplication.class, args
+
+        );
     }
 
 }
